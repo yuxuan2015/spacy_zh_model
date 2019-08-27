@@ -59,8 +59,10 @@ or
 
 ## Reference
 
-1 [spacy-github地址](https://github.com/explosion/spaCy/tree/master/spacy)
+1 [spacy-github地址](https://github.com/explosion/spaCy)
 
 2 [spacy训练中文模型](https://www.jianshu.com/u/3b77f85cc918)
 
 3 [spacy训练中文模型-code](https://github.com/jeusgao/spaCy-new-language-test-Chinese)
+
+4 [Chinese_models_for_SpaCy](https://github.com/howl-anderson/Chinese_models_for_SpaCy)
